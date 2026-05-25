@@ -1,2 +1,17 @@
-# Net-Pay-By-Tax-Bracket-With-Java
-A Java project I built to better understand how progressive tax brackets affect income and net pay calculations. Instead of only learning the concept theoretically, I wanted to implement the logic directly in code and see how tax systems can be modeled programmatically.
+# Net Pay by Tax Bracket with Java
+
+This is a Java project that calculates net pay using progressive tax bracket logic.
+
+I built this to practice modeling a real-world financial concept in Java. Instead of only learning tax brackets theoretically, this program helped me implement the logic directly through code.
+
+## Concepts Practiced
+
+- Java
+- Conditional logic
+- Arithmetic calculations
+- Progressive tax brackets
+- Real-world programming logic
+
+## What I Learned
+
+This project helped me strengthen my Java fundamentals while also understanding how tax bracket calculations can be represented programmatically.
