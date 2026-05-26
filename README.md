@@ -10,7 +10,7 @@ I built this to practice modeling a real-world financial concept in Java. Instea
 - Conditional logic
 - Arithmetic calculations
 - Progressive tax brackets
-- Real-world programming logic
+- Real-world problem solving
 
 ## What I Learned
 
