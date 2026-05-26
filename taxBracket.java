@@ -1,6 +1,6 @@
 import java.util.Scanner; // imported the scanner class to read user input.
 
-public class BracyProgrammingAssignment1 { // calculates a user's net pay (after taxes) based on their tax bracket
+public class taxBracket { // calculates a user's net pay (after taxes) based on their tax bracket
 
     public static void main(String[] args) {
 
